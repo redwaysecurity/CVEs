@@ -3,6 +3,7 @@ A collection of proof-of-concept exploit scripts written by the team at Redway S
 * [CVE-2022-2992: Remote Command Execution via Github import](CVE-2022-2992/README.md)  
 * [CVE-2023-32707: Splunk 'edit_user' Capability Privilege Escalation](CVE-2023-32707/README.md)
 * [CVE-2024-34102: Magento admin user impersonation via arbritrary file read](CVE-2024-34102/README.md)
+* [WSO2-2023-2988: WSO2 remote code execution through arbitrary file upload](WSO2-2023-2988/README.md)
 ### DISCLAIMER
 
 This Git repository contains code, scripts, and documentation related to security exploits. The sole purpose
